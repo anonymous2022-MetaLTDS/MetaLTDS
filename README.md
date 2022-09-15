@@ -1,2 +1,2 @@
 # MetaLTDS
-anonymous submission for MetaLTDS
+Code for MetaLTDS
